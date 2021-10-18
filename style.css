@@ -625,9 +625,9 @@ footer{
 }
 .btn{
     padding: 6px 20px;
-    border: 2px solid rgb(17, 11, 11);
-    background-color: #b5b5e4;
-    color: black;
+    border: 2px solid rgb(113 1 1);
+    background-color: #c5c5e6;
+    color:#0d0c0c;
     margin: 17px;
     font-size: 1rem;
     border-radius: 8px;
