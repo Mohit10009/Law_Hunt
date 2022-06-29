@@ -196,9 +196,9 @@ html{
    content: "";
    background: url(../hammer_bg.jpg) no-repeat center center/cover;
    position: absolute;
-   top: 0px;
+   top: 230px;
    left: 0px;
-   height: 100%;
+   height: 60%;
    width: 100%;
    z-index: -1;
    opacity: 1;
@@ -238,7 +238,7 @@ html{
      margin: 69px;
      width:369px;
      position: relative;
-    bottom: 99px;
+     /* top: 29px; */
     right: 42px;
 
 
@@ -249,6 +249,8 @@ html{
      width: 600px;
      position: relative;
      left: 9px;
+     top: 90px;
+    
  }
 .fifth{
     font-size: 1.3rem;
@@ -356,7 +358,7 @@ html{
 }
 #green{
     border:2px rgb(87, 83, 83) solid;
-    width:1250px;
+    width:100%;
     height:300px;
     position: relative;
     bottom: 250px;
@@ -475,9 +477,14 @@ width: 200px;
 /* --------------------------------------------------------------------------------------------------- */
 #our-clients{
     /* border: 2px red solid; */
-    width: 1250px;
+    width: 100%;
     height: 500px;
     background-color: rgb(129 149 149);
+}
+#our-clients1{
+   position: relative;
+   left: 5%;
+   
 }
 
 .box60{
